@@ -1,14 +1,3 @@
-#!/usr/bin/python
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-#|R|a|s|p|b|e|r|r|y|P|i|-|S|p|y|.|c|o|.|u|k|
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-#
-# pir_1.py
-# Detect movement using a PIR module
-#
-# Author : Matt Hawkins
-# Date   : 21/01/2013
- 
 # Import required Python libraries
 import RPi.GPIO as GPIO
 import time
